@@ -22,6 +22,7 @@ This list focuses on practical provider facts: supported model families, public 
 | Provider | Pricing | Minimum top-up | Payment methods |
 | --- | --- | --- | --- |
 | [88API](https://ccnavx.com/sites/88api) | Public | USD 1 | Alipay, WeChat, USDT, USDC |
+| [AI in IDE](https://aiinide.com/) | [Public subscription plans](https://aiinide.com/pricing) | Not listed | Not listed |
 | [Ai Go Code](https://ccnavx.com/sites/aigocode) | Public | CNY 5 | WeChat, Alipay, Visa, Mastercard, Amex |
 | [AnPin AI](https://ccnavx.com/sites/anpin) | Public | USD 1 | Alipay, WeChat |
 | [APIKey](https://ccnavx.com/sites/apikey) | Public | CNY 30 | WeChat, Alipay, USDT |

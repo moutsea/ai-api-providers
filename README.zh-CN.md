@@ -22,6 +22,7 @@
 | 服务商 | 价格 | 最低充值 | 支付方式 |
 | --- | --- | --- | --- |
 | [88API](https://ccnavx.com/sites/88api) | 公开 | USD 1 | 支付宝、微信、USDT、USDC |
+| [AI in IDE](https://aiinide.com/) | [公开订阅套餐](https://aiinide.com/pricing) | 未列明 | 未列明 |
 | [Ai Go Code](https://ccnavx.com/sites/aigocode) | 公开 | CNY 5 | 微信、支付宝、Visa、Mastercard、Amex |
 | [安品AI](https://ccnavx.com/sites/anpin) | 公开 | USD 1 | 支付宝、微信 |
 | [APIKey](https://ccnavx.com/sites/apikey) | 公开 | CNY 30 | 微信、支付宝、USDT |
